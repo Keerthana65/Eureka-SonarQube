@@ -1,0 +1,6 @@
+projectKey=com.sgic.internal:sgic-internal-services
+serverUrl=http://localhost:9000
+serverVersion=7.9.1.27448
+dashboardUrl=http://localhost:9000/dashboard?id=com.sgic.internal%3Asgic-internal-services
+ceTaskId=AWypBrshEapk8tMoqlPR
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWypBrshEapk8tMoqlPR

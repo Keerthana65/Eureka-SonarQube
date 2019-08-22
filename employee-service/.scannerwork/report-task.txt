@@ -1,0 +1,6 @@
+projectKey=employee-service
+serverUrl=http://localhost:9000
+serverVersion=7.9.1.27448
+dashboardUrl=http://localhost:9000/dashboard?id=employee-service
+ceTaskId=AWyo5gqHEapk8tMoqlPJ
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWyo5gqHEapk8tMoqlPJ
